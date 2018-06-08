@@ -1,4 +1,4 @@
-### smi-service-swagger-aggregator
+### smi-service-swagger-aggregator test
 
 Copyright © 2017 Dell Inc. or its subsidiaries.  All Rights Reserved. 
 
